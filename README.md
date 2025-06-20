@@ -1,3 +1,16 @@
+Notice
+I use doom generic from 
+https://github.com/ozkl/doomgeneric
+
+
+
+
+
+
+
+
+
+
 # doomgeneric
 The purpose of doomgeneric is to make porting Doom easier.
 Of course Doom is already portable but with doomgeneric it is possible with just a few functions.
