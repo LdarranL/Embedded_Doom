@@ -2,14 +2,17 @@ Notice
 I use doom generic from 
 https://github.com/ozkl/doomgeneric
 
+I don't have any license and any private pupose.
+Only for education purpose
 
+I use ecube All-in-one kit froms south korea. 
 
+To use Periboard, I edited some files inside (i_input.c and st_stuff.c).
+please check this files when you want to use it.
 
+Also if it might be a problem, please email me and i will directly respond your email.
 
-
-
-
-
+Thank you.
 
 # doomgeneric
 The purpose of doomgeneric is to make porting Doom easier.
